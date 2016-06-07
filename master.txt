@@ -3,3 +3,8 @@ master string 2
 master string 3
 master string 4
 master string 5
+testing-clone string 1
+testing-clone string 2
+testing-clone string 3
+testing-clone string 4
+testing-clone string 5
